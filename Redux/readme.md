@@ -15,6 +15,8 @@
 - `createReducer(<reducerFn>)` -  takes a function and returns a Redux reducer
 - `combineReducers({name: reducer, ...})` - combines multiple reducers that handle different actions
 - `applyMiddleware(...middleware)` - adds Rexus middleware API function
+	- wraps `preloadedState` in `createStore`
+		- e.g. `createStore(reducer, applyMiddleware(thunk))`
 
 ## Integrating Redux with a UI
 1.  Create a Redux store
