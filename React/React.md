@@ -1,4 +1,4 @@
-React defines very few [[Components|components]] on its own. Most of the content provided by the `react` package are hooks and API calls for handling [[Effects|effects]], [[Transitions|transitions]], [[Refs|refs]], [[Transitions|transitions]], [[State|state]] as well as providing some mechanisms for handling [[Lazy Mechanisms|lazy behavior]].
+React defines very few [[Component|components]] on its own. Most of the content provided by the `react` package are hooks and API calls for handling [[Effects|effects]], [[Transitions|transitions]], [[Refs|refs]], [[Transitions|transitions]], [[State|state]] as well as providing some mechanisms for handling [[Lazy Mechanisms|lazy behavior]].
 
 ## Commands
 ```sh
