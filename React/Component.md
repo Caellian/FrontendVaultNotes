@@ -14,7 +14,6 @@ The returned content won't be wrapped within a component in DOM. That in turn al
 ```
 
 ### Profiler
-
 Measures rendering performance of a React tree programmatically. Shouldn't be left in production environment.
 
 ```jsx
@@ -44,4 +43,4 @@ Displays a fallback until its children have finished loading.
 
 ## Related hooks & API
 
-- #hook [const [state, dispatch] = useReducer(reducer, initialArg, init?)](https://beta.reactjs.org/reference/react/useReducer) - allows adding [reducer](https://beta.reactjs.org/learn/extracting-state-logic-into-a-reducer) to components
+- #hook [const [state,/data/code/AA/ABsistemTicketingPrint.Client/src/i18n.js dispatch] = useReducer(reducer, initialArg, init?)](https://beta.reactjs.org/reference/react/useReducer) - allows adding [reducer](https://beta.reactjs.org/learn/extracting-state-logic-into-a-reducer) to components
