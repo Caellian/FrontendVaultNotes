@@ -1,5 +1,7 @@
+- [Documentation](https://emotion.sh/docs/introduction) 
+
 ## React
-```js
+```jsx
 import { css } from '@emotion/react'
 
 const color = 'white'
@@ -21,25 +23,17 @@ render(
 )
 ```
 
-## Styled 
+### Object notation
+```jsx
+import { css } from '@emotion/react'
 
-- Sandi ne voli ovaj stil
-	- Consistency
+const hotpink = css({
+  color: 'hotpink'
+})
 
-```js
-import styled from '@emotion/styled'
-
-const Button = styled.button`
-  padding: 32px;
-  background-color: hotpink;
-  font-size: 24px;
-  border-radius: 4px;
-  color: black;
-  font-weight: bold;
-  &:hover {
-    color: white;
-  }
-`
-
-render(<Button>This my button component.</Button>)
+render(
+  <div>
+    <p css={hotpink}>This is hotpink</p>
+  </div>
+)
 ```
