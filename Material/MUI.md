@@ -2,9 +2,9 @@
 - [MUI Docs: How to customize](https://mui.com/material-ui/custo-mization/how-to-customize/)
 - [MUI ](https://zenoo.github.io/mui-theme-creator/)
 
-- Component level customization: [[Emotion]]
+- Component level customization: [Emotion](Emotion.md)
 
 ## Alternatives
 - MUI Base + System
 	- [MUI Base](https://mui.com/base/getting-started/overview/) - library of headless ("unstyled") React UI components and low-level hooks
-	- [MUI System](https://mui.com/system/getting-started/overview/) - collection of CSS utilities for rapidly laying out custom designs with MUI component libraries
+	- [MUI System](https://mui.com/system/getting-started/overview/) ([local](MUI%20System.md)) - collection of CSS utilities for rapidly laying out custom designs with MUI component libraries

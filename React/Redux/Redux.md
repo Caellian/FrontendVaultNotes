@@ -19,7 +19,7 @@
 		- e.g. `createStore(reducer, applyMiddleware(thunk))`
 
 ## Integrating Redux with a UI
-1.  Create a [[Store|Redux store]]
+1.  Create a [Redux store](Store.md)
 2.  Subscribe to updates
 3.  Inside the subscription callback:
     1.  Get the current store state

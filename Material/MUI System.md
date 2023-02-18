@@ -1,6 +1,6 @@
 - [Properties](https://mui.com/system/properties/)
 
-- MUI System [[Component]]s use the `sx` property as replacement for `style` which provides access to `theme`.
+- MUI System [Component](Component.md)s use the `sx` property as replacement for `style` which provides access to `theme`.
 
 ### CSS property level accessors
 ```js

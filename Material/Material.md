@@ -1,1 +1,2 @@
 - [Material Design Guidelines](https://m2.material.io/design/guidelines-overview)
+- [Figma: Material UI](https://www.figma.com/file/muB0mEDLbubWQkMUGSY5ik/Material-Design-UI-kit---Components-library-(Community)?t=oUaDZEmGf4PRKwzQ-0)

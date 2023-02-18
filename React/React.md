@@ -1,4 +1,4 @@
-React defines very few [[Component|components]] on its own. Most of the content provided by the `react` package are hooks and API calls for handling [[Effects|effects]], [[Transitions|transitions]], [[Refs|refs]], [[Transitions|transitions]], [[State|state]] as well as providing some mechanisms for handling [[Lazy Mechanisms|lazy behavior]].
+React defines very few [components](Component.md) on its own. Most of the content provided by the `react` package are hooks and API calls for handling [effects](Effects.md), [transitions](Transitions.md), [refs](Refs.md), [transitions](Transitions.md), [state](State.md) as well as providing some mechanisms for handling [lazy behavior](Lazy%20Mechanisms.md).
 
 - [Create a new React App](https://reactjs.org/docs/create-a-new-react-app.html)
 ## Commands
