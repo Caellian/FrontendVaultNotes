@@ -1,4 +1,4 @@
-- [How Redux works internally](https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/)
+- [How Redux works internally](https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/) 
 
 ## Hooks
 - `useSelector((state) => access)` - reads a value from the store state and subscribes to updates
@@ -19,7 +19,7 @@
 		- e.g. `createStore(reducer, applyMiddleware(thunk))`
 
 ## Integrating Redux with a UI
-1.  Create a Redux store
+1.  Create a [[Store|Redux store]]
 2.  Subscribe to updates
 3.  Inside the subscription callback:
     1.  Get the current store state

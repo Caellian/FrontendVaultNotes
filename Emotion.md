@@ -22,6 +22,10 @@ render(
 ```
 
 ## Styled 
+
+- Sandi ne voli ovaj stil
+	- Consistency
+
 ```js
 import styled from '@emotion/styled'
 

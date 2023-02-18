@@ -1,5 +1,6 @@
 React defines very few [[Component|components]] on its own. Most of the content provided by the `react` package are hooks and API calls for handling [[Effects|effects]], [[Transitions|transitions]], [[Refs|refs]], [[Transitions|transitions]], [[State|state]] as well as providing some mechanisms for handling [[Lazy Mechanisms|lazy behavior]].
 
+- [Create a new React App](https://reactjs.org/docs/create-a-new-react-app.html)
 ## Commands
 ```sh
 # init a React project
